@@ -1,0 +1,7 @@
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\obj\Debug\pertemuan1.1.csproj.AssemblyReference.cache
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\obj\Debug\pertemuan1.1.csproj.CoreCompileInputs.cache
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\bin\Debug\pertemuan1.1.exe.config
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\bin\Debug\pertemuan1.1.exe
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\bin\Debug\pertemuan1.1.pdb
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\obj\Debug\pertemuan1.1.exe
+E:\23.11.5646\Pertemuan1\CalculationConsoleApp\pertemuan1.1\obj\Debug\pertemuan1.1.pdb
